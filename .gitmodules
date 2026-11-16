@@ -1,3 +1,6 @@
 [submodule "Bt-01"]
 	path = Bt-01
 	url = https://github.com/voduyanhgalaxys4-code/Bt-01.git
+[submodule "Bt-02"]
+	path = Bt-02
+	url = https://github.com/voduyanhgalaxys4-code/Bt-02.git
